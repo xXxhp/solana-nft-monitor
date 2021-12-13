@@ -7,6 +7,8 @@ require "json"
 #
 
 # Get ids from the console command and do some cleanup
+
+
 collection = {
   moonrank: ARGV[0],
   magic_eden: ARGV[1],
