@@ -1,13 +1,13 @@
 {
-  "Komodo Dragonz 436": {
-    "rank": 888,
+  "Komodo Dragonz 887": {
+    "rank": 460,
     "attributes": {
-      "backgrounds": "purple",
-      "clothing": "nothing",
-      "eyes": "sunglasses",
+      "backgrounds": "jungle",
+      "clothing": "suit",
+      "eyes": "stoned eyes",
       "head": "nothing",
       "mouth": "nothing",
-      "skins": "green",
+      "skins": "black",
       "special_edition": ""
     }
   },
@@ -5507,18 +5507,6 @@
       "special_edition": ""
     }
   },
-  "Komodo Dragonz 887": {
-    "rank": 1,
-    "attributes": {
-      "backgrounds": "",
-      "clothing": "",
-      "eyes": "",
-      "head": "",
-      "mouth": "",
-      "skins": "",
-      "special_edition": "Steve Irwin"
-    }
-  },
   "Komodo Dragonz 885": {
     "rank": 461,
     "attributes": {
@@ -10640,6 +10628,18 @@
       "head": "nothing",
       "mouth": "nothing",
       "skins": "red",
+      "special_edition": ""
+    }
+  },
+  "Komodo Dragonz 436": {
+    "rank": 888,
+    "attributes": {
+      "backgrounds": "purple",
+      "clothing": "nothing",
+      "eyes": "sunglasses",
+      "head": "nothing",
+      "mouth": "nothing",
+      "skins": "green",
       "special_edition": ""
     }
   }

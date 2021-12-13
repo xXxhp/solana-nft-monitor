@@ -1,13 +1,13 @@
 {
-  "TYR-1662": {
-    "rank": 2121,
+  "TYR-0838": {
+    "rank": 1,
     "attributes": {
-      "Background": "Pelegrinaru",
-      "Breastplate": "Raiko 01 Zx Kp",
-      "Energy-source": "Emerarudo",
-      "Head": "Shobo O12X",
-      "Shoulder": "Kabutomushi V1",
-      "Visor": "Satesi 02D"
+      "Background": "Sorinosu",
+      "Breastplate": "Wotank 37",
+      "Energy-source": "Sorana",
+      "Head": "Zugaikotsu Gz",
+      "Shoulder": "Arami Dmg",
+      "Visor": "Tsuki Lox"
     }
   },
   "TYR-1065": {
@@ -23319,15 +23319,15 @@
       "Visor": "Onikisu Xq"
     }
   },
-  "TYR-0838": {
-    "rank": 1,
+  "TYR-1662": {
+    "rank": 2121,
     "attributes": {
-      "Background": "Sorinosu",
-      "Breastplate": "Wotank 37",
-      "Energy-source": "Sorana",
-      "Head": "Zugaikotsu Gz",
-      "Shoulder": "Arami Dmg",
-      "Visor": "Tsuki Lox"
+      "Background": "Pelegrinaru",
+      "Breastplate": "Raiko 01 Zx Kp",
+      "Energy-source": "Emerarudo",
+      "Head": "Shobo O12X",
+      "Shoulder": "Kabutomushi V1",
+      "Visor": "Satesi 02D"
     }
   }
 }

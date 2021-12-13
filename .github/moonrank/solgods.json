@@ -1,15 +1,15 @@
 {
-  "SOLGods 2869": {
-    "rank": 6666,
+  "SOLGods 6666": {
+    "rank": 1,
     "attributes": {
-      "Back": "None",
-      "Background": "Black",
-      "Character": "White",
-      "Code": "None",
-      "Eyes": "None",
-      "Face": "None",
-      "Head": "None",
-      "Torso": "Hoodie Red"
+      "Back": "Devil",
+      "Background": "Psy",
+      "Character": "Black",
+      "Code": "…010111010110",
+      "Eyes": "Buttons",
+      "Face": "Squidgame Triangle",
+      "Head": "Straw Hat",
+      "Torso": "Formal Black"
     }
   },
   "SOLGods 6170": {
@@ -86644,17 +86644,17 @@
       "Torso": "Formal White"
     }
   },
-  "SOLGods 6666": {
-    "rank": 1,
+  "SOLGods 2869": {
+    "rank": 6666,
     "attributes": {
-      "Back": "Devil",
-      "Background": "Psy",
-      "Character": "Black",
-      "Code": "…010111010110",
-      "Eyes": "Buttons",
-      "Face": "Squidgame Triangle",
-      "Head": "Straw Hat",
-      "Torso": "Formal Black"
+      "Back": "None",
+      "Background": "Black",
+      "Character": "White",
+      "Code": "None",
+      "Eyes": "None",
+      "Face": "None",
+      "Head": "None",
+      "Torso": "Hoodie Red"
     }
   }
 }

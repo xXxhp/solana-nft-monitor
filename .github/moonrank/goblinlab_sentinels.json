@@ -1,14 +1,14 @@
 {
-  "Sentinel 5381": {
-    "rank": 9025,
+  "Sentinel 2068": {
+    "rank": 1,
     "attributes": {
-      "Background": "Rotary Decompression Chamber",
-      "Extra": "MicroVac",
-      "Eyes": "Veiled",
-      "Face": "Lovestruck",
-      "Headwear": "Neural Vessels",
-      "Outfit": "Iron Lace",
-      "Wetware": "Surrogate A"
+      "Background": "Submerged Boiler Room",
+      "Extra": "Wetware Mind Drive",
+      "Eyes": "Devouring",
+      "Face": "Chagrined",
+      "Headwear": "Flayed Syndicate",
+      "Outfit": "Bunny Bomber",
+      "Wetware": "Surrogate B"
     }
   },
   "Sentinel 7285": {
@@ -108275,16 +108275,16 @@
       "Wetware": "Surrogate C"
     }
   },
-  "Sentinel 2068": {
-    "rank": 1,
+  "Sentinel 5381": {
+    "rank": 9025,
     "attributes": {
-      "Background": "Submerged Boiler Room",
-      "Extra": "Wetware Mind Drive",
-      "Eyes": "Devouring",
-      "Face": "Chagrined",
-      "Headwear": "Flayed Syndicate",
-      "Outfit": "Bunny Bomber",
-      "Wetware": "Surrogate B"
+      "Background": "Rotary Decompression Chamber",
+      "Extra": "MicroVac",
+      "Eyes": "Veiled",
+      "Face": "Lovestruck",
+      "Headwear": "Neural Vessels",
+      "Outfit": "Iron Lace",
+      "Wetware": "Surrogate A"
     }
   }
 }
